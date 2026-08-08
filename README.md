@@ -110,7 +110,13 @@ orbit-tasks/
 GitHub: **[@cyborgchirag](https://github.com/cyborgchirag)**
 
 ---
+## 🙏 Acknowledgements
 
+Special thanks to **ChatGPT (OpenAI)** for mentoring, explaining concepts, debugging issues, and providing guidance throughout the development of this project.
+
+The project was designed and coded by **Chirag Jain**, with ChatGPT serving as a learning companion and mentor.
+
+---
 ## 🏢 Company
 
 # CYBORG
