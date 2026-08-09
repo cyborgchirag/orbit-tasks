@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Orbit Tasks</h1>
+<h1 align="center">🚀 Orbit — Organize. Focus. Achieve.</h1>
 
 <p align="center">
   <b>Powered by CYBORG</b><br>
@@ -10,7 +10,7 @@
 
 ## 📖 About
 
-**Orbit Tasks** is a command-line To-Do List application built using **Python**.
+**Orbit** is a command-line To-Do List application built using **Python**.
 
 This is my **first complete software project**, created while learning Python fundamentals. It provides a simple and user-friendly interface for managing daily tasks efficiently.
 
