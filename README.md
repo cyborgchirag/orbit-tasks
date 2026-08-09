@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cyborg Logo.png" alt="Cyborg Logo" width="220">
+  <img src="Cyborg .png" alt="Cyborg Logo" width="220">
 </p>
 
 <h1 align="center">🚀 Orbit Tasks</h1>
